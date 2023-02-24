@@ -1,0 +1,40 @@
+Microsoft Windows [Version 10.0.19043.1165]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\sehou>cd Google Drive
+
+C:\Users\sehou\Google Drive>cd Baseball Project Backup
+The system cannot find the path specified.
+
+C:\Users\sehou\Google Drive>cd UPJ
+
+C:\Users\sehou\Google Drive\UPJ>cd Baseball Project Backup
+
+C:\Users\sehou\Google Drive\UPJ\Baseball Project Backup>javac Baseball.java
+
+C:\Users\sehou\Google Drive\UPJ\Baseball Project Backup>java Baseball
+The Pitcher's name is Kent T.
+Throw by Throwing to the Catcher.
+Catch with regular Glove.
+They Do Not Swing.
+The Batter's name is Pedro A.
+Do Not Throw.
+Catch with bare hands.
+Swing and focus on contact.
+The Fielder's name is Max M.
+Throw by Throwing to the Fielder.
+Catch with regular Glove.
+They Do Not Swing.
+The Catcher's name is Chris S.
+Throw by Throwing to the Pitcher.
+Catch ball thrown from Pitcher.
+They Do Not Swing.
+Kent the pitcher will not bat any more because we have a pinch hitter.
+The Pitcher's name is Kent T.
+They Do Not Swing.
+The Pinch Hitter's name is Bobcat.
+Do Not Throw.
+Do Not Catch.
+Swing for power.
+
+C:\Users\sehou\Google Drive\UPJ\Baseball Project Backup>

@@ -1,0 +1,23 @@
+TeamMembers: //Abstract Class
+-Pitcher: 	Throw to Catcher, Use Regular Glove, Do Not Bat
+-Batter: 	Do Not Throw, Use Bare Hands, Focus on Contact
+-Fielder:	Throw to Fielder, Use Regular Glove, Do Not Bat
+-Catcher:	Throw To Pitcher, Catch From Pitcher, Do Not Bat
+-Pinch Hitter: 	Do Not Throw, Do Not Catch, Swing For Power
+
+ThrowingBehaviours: //Interface	
+-Throw To Catcher
+-Do Not Throw
+-Throw To Fielder
+-Throw Back To Pitcher
+
+CatchingBehaviours: //Interface
+-Use Regular Glove
+-Use Bare Hands
+-Catch From Pitcher
+-Do Not Catch
+
+SwingingBehaviours: //Interface
+-Do Not Bat
+-Focus On Contact
+-Swing For Power
